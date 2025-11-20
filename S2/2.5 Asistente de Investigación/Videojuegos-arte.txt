@@ -1,0 +1,18 @@
+PROMT:
+Dame las posiciones con respecto a los videjuegos como forma de arte
+
+Diferencias principales encontradas:
+
+Perplexity:
+las fuentes de perplexity son mucho mas recientes mostrando una
+perpectiva reciente y actual, sin la necesidad de tenr que navegar 
+pagina tras pagina de conocimiento que puede que en este momento
+ya no sea relevante. Dependiento del tema puede ser una verdadera
+amenaza.
+
+Scholar:
+Las fuentes de scholar son mucho mas confiables y facilmente
+identificables entre autores lo cual demuestra una mayor rigurosidad
+a la hora de busqueda algoritmica lo cual en un ainvestigacion donde
+lo que importa son los resultados o avances historicos es la 
+mejor herramienta.
