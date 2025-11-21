@@ -1,0 +1,5 @@
+google-generativeai
+transformers
+torch
+scipy
+python-dotenv
